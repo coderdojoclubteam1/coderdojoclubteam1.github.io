@@ -1,0 +1,23 @@
+h1 {
+	size: 100px;
+	color: white
+}
+* {
+	background-color: black;
+    color: white;
+    margin-left: auto;
+	margin-right: auto;
+}
+img {
+  height: 215px;
+  width: 215px;
+}
+.bob{
+	margin-left: auto;
+	margin-right: auto;
+    width: 50%;
+}
+#bill{
+    font-family: Cursive;
+	font-size: 150px;
+}
